@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,35:312e81,70:6d28d9,100:7c3aed&amp;height=230&amp;section=header&amp;text=mY PORTO&amp;fontSize=56&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20Software%20Engineer%20%7C%20AI%20Engineer&amp;descAlignY=60&amp;descSize=20" alt="Profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,35:312e81,70:6d28d9,100:7c3aed&amp;height=230&amp;section=header&amp;text=MY20%PORTO&amp;fontSize=56&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20Software%20Engineer%20%7C%20AI%20Engineer&amp;descAlignY=60&amp;descSize=20" alt="Profile header" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
