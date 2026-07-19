@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 
   <a href="https://www.linkedin.com/in/tegar-reski-pratama-47491822a">
@@ -25,11 +25,11 @@
   </a>
 
   <a href="mailto:tegarcreat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -43,12 +43,17 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;label=PROFILE%20VIEWS&amp;color=6D28D9&amp;style=flat-square" alt="Profile views" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&amp;style=flat-square&amp;color=4F46E5&amp;labelColor=111827" alt="GitHub followers" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&amp;label=TOTAL%20STARS&amp;style=flat-square&amp;color=7C3AED&amp;labelColor=111827" alt="GitHub stars" /></a>
-</div>
+---
 
+## About
+
+I am an **Informatics student at Universitas Muhammadiyah Malang** and a **BNSP Certified Associate Data Scientist** with a strong passion for **Data Science, Artificial Intelligence, Machine Learning, Computer Vision, and Software Development**.
+
+My experience includes building machine learning models, developing computer vision applications, analyzing data, and creating software solutions for real-world problems. I enjoy transforming raw data into meaningful insights and intelligent systems through data preprocessing, visualization, predictive modeling, and deep learning.
+
+Currently, I am actively working on research in **multi-label image classification**, **Explainable AI (Grad-CAM)**, and **Computer Vision**, while continuously improving my skills in Python, TensorFlow, SQL, Flutter, Laravel, and modern AI technologies.
+
+I believe in continuous learning, collaborative problem solving, and building impactful projects that combine technology, innovation, and practical business value.
 ---
 
 ## About
