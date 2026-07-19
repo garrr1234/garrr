@@ -338,56 +338,144 @@ The application demonstrates Flutter fundamentals, state management, and respons
 </details>
 
 ---
-## Experience
+---
 
-### Senior Software Engineer · YOUR_CURRENT_COMPANY
+# 💼 Experience
 
-`MMM YYYY - Present` · `YOUR_LOCATION_OR_REMOTE`
+### 🏛️ Software Developer Intern · Batu City Tourism Office (Dinas Pariwisata Kota Batu)
 
-Lead the design and delivery of customer-facing platforms and internal engineering capabilities across software, data, and AI systems.
+`Jul 2026 – Present` · Batu, East Java, Indonesia
 
-- Architected distributed services supporting `YOUR_SCALE_METRIC` while meeting `YOUR_RELIABILITY_TARGET` service objectives.
-- Led cross-functional delivery with product, design, data, security, and operations stakeholders.
-- Improved p95 latency by `YOUR_LATENCY_IMPROVEMENT`, cloud cost by `YOUR_COST_IMPROVEMENT`, and release lead time by `YOUR_DELIVERY_IMPROVEMENT`.
-- Established engineering standards for design reviews, testing, observability, incident response, and technical documentation.
+Currently developing **SI NINJA (Sistem Informasi Kris Nusantara)**, a web-based information system designed to preserve and digitize Indonesian cultural heritage, particularly **Kris Tosan Aji**, during the Praktik Kerja Nyata (PKN) program.
 
-<p>
-  <img src="https://img.shields.io/badge/System%20Design-312E81?style=flat-square" alt="System Design" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-4338CA?style=flat-square" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/AI%20Engineering-5B21B6?style=flat-square" alt="AI Engineering" />
-  <img src="https://img.shields.io/badge/Cloud%20Architecture-6D28D9?style=flat-square" alt="Cloud Architecture" />
-  <img src="https://img.shields.io/badge/Technical%20Leadership-7C3AED?style=flat-square" alt="Technical Leadership" />
-</p>
+#### Responsibilities
 
-### Software Engineer · YOUR_PREVIOUS_COMPANY
+- Designed and developed web application modules using Laravel and MySQL.
+- Conducted requirements gathering through interviews with cultural heritage experts and stakeholders.
+- Collaborated with a multidisciplinary team to analyze system requirements and application workflows.
+- Developed database structures for digital archives and cultural object management.
+- Participated in UI/UX planning, system testing, and feature validation.
+- Prepared technical documentation and project reports.
 
-`MMM YYYY - MMM YYYY` · `YOUR_LOCATION_OR_REMOTE`
-
-Built and operated full-stack products, data services, and automation used by customers and internal teams.
-
-- Delivered `YOUR_PRODUCT_OR_PLATFORM` from discovery through production launch.
-- Designed APIs and data models that supported `YOUR_SCALE_OR_BUSINESS_METRIC`.
-- Increased automated test coverage to `YOUR_TEST_COVERAGE` and reduced escaped defects by `YOUR_DEFECT_REDUCTION`.
-- Mentored engineers and contributed to hiring, planning, code review, and operational readiness.
+#### Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-312E81?style=flat-square" alt="Full-Stack Development" />
-  <img src="https://img.shields.io/badge/Backend%20Engineering-4338CA?style=flat-square" alt="Backend Engineering" />
-  <img src="https://img.shields.io/badge/Data%20Platforms-5B21B6?style=flat-square" alt="Data Platforms" />
-  <img src="https://img.shields.io/badge/DevOps-6D28D9?style=flat-square" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Product%20Engineering-7C3AED?style=flat-square" alt="Product Engineering" />
+  <img src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## Achievements
+### 📊 Associate Data Scientist (BNSP Certified)
 
-| Recognition | Details |
-|:---:|:---:|
-| YOUR_RECOGNITION_1 | YOUR_ACHIEVEMENT_DETAILS_AND_MEASURABLE_OUTCOME |
-| YOUR_RECOGNITION_2 | YOUR_ACHIEVEMENT_DETAILS_AND_MEASURABLE_OUTCOME |
-| YOUR_RECOGNITION_3 | YOUR_ACHIEVEMENT_DETAILS_AND_MEASURABLE_OUTCOME |
-| Open Source Impact | Maintainer or contributor to `YOUR_PROJECTS`, reaching `YOUR_STARS_OR_USAGE_METRIC` |
+`2025` · Indonesia
+
+Completed the **Associate Data Scientist Professional Certification** accredited by **BNSP (National Professional Certification Agency)**. The certification focused on practical implementation of data science methodologies, machine learning workflows, statistical analysis, and business intelligence.
+
+#### Competencies
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- Machine Learning Modeling
+- Model Evaluation
+- Feature Engineering
+- Data Visualization
+- Business Intelligence
+- SQL for Data Analysis
+
+#### Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql"/>
+</p>
+
+---
+
+### 👨‍💻 Freelance Machine Learning & Data Science Projects
+
+`2024 – Present` · Remote
+
+Developed multiple academic and personal projects focusing on **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Data Analytics**.
+
+#### Selected Projects
+
+- Multi-Label Exercise Classification using EfficientNetV2
+- Legal Case-Based Reasoning System using BERT
+- EcoSense IoT Air Quality Prediction
+- Customer Segmentation
+- Vehicle Price Prediction
+- Titanic Survival Prediction
+- COVID-19 Clustering Analysis
+- Interactive Power BI Dashboards
+
+#### Responsibilities
+
+- Data preprocessing and feature engineering
+- Machine learning model development
+- Computer vision model training
+- Hyperparameter tuning
+- Model evaluation
+- Dashboard development
+- Technical documentation
+- Research experimentation
+
+#### Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau"/>
+</p>
+
+---
+
+### 🏌️ Public Relations & Documentation Division
+
+**UMM Rector Cup Golf Championship**
+
+`2025`
+
+Served as a member of the Public Relations and Publication Documentation Division responsible for communication, media documentation, event coordination, and promotional activities during the university golf championship.
+
+#### Responsibilities
+
+- Event documentation
+- Public communication
+- Media publication
+- Team coordination
+- Content management
+
+<p>
+  <img src="https://img.shields.io/badge/Public%20Relations-312E81?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Event%20Management-4338CA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Communication-5B21B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Teamwork-6D28D9?style=flat-square"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+| Achievement | Details |
+|:------------|:--------|
+| 🥇 Associate Data Scientist (BNSP) | Nationally recognized professional certification in Data Science covering machine learning, analytics, statistics, and business intelligence. |
+| 🎓 Informatics Student | Pursuing Bachelor's Degree in Informatics with specialization in Data Science and Artificial Intelligence at Universitas Muhammadiyah Malang. |
+| 🤖 Computer Vision Research | Conducting undergraduate research on Multi-Label Exercise Classification using EfficientNetV2 and Grad-CAM. |
+| 💻 AI & Machine Learning Portfolio | Developed multiple AI, Computer Vision, NLP, IoT, and Data Analytics projects using Python and TensorFlow. |
+| 🏛️ Software Development | Developed SI NINJA, a cultural heritage information system for the Batu City Tourism Office during the PKN program. |
+| 🌱 IoT Innovation | Built EcoSense, an intelligent air quality prediction system integrating ESP32 sensors with Support Vector Machine (SVM). |
+| 📊 Data Analytics | Created interactive dashboards and predictive analytics projects using Power BI, Tableau, and Python. |
+| 📚 Research & Publications | Experienced in literature review, experimental design, model evaluation, and scientific documentation for AI research. |
 
 ---
 
