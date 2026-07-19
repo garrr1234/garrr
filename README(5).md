@@ -134,12 +134,6 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
----
-
----
-
----
-
 ## 📊 Data Analytics & Visualization
 
 <p align="center">
@@ -163,7 +157,9 @@ My AI and machine learning work covers data pipelines, model development, retrie
 </div>
 
 </p>
+
 ---
+
 ### ⚙️ Tools & IDE
 
 <p align="center">
