@@ -1,25 +1,46 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,35:312e81,70:6d28d9,100:7c3aed&amp;height=230&amp;section=header&amp;text=TEGAR_RESKI_PRATAMA&amp;fontSize=56&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20Software%20Engineer%20%7C%20AI%20Engineer&amp;descAlignY=60&amp;descSize=20" alt="Profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312e81,70:6d28d9,100:7c3aed&height=230&section=header&text=TEGAR_RESKI_PRATAMA&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&descSize=20" alt="Profile header" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=920&amp;lines=Building+reliable+software+for+real-world+scale;Engineering+AI+systems+from+research+to+production;Designing+products+with+performance%2C+security%2C+and+impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=920&lines=Building+Intelligent+Data+Solutions;Machine+Learning+Engineer;Computer+Vision+Researcher;Turning+Data+Into+Insights" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Degree-YOUR_DEGREE-4C1D95?style=flat-square&amp;logo=academia&amp;logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Major-YOUR_MAJOR-5B21B6?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Major" />
-  <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Machine%20Learning-6D28D9?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="AI and Machine Learning specialization" />
-  <img src="https://img.shields.io/badge/Location-YOUR_LOCATION-4338CA?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Degree-Bachelor%20Student-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/Major-Informatics-5B21B6?style=flat-square&logo=googlescholar&logoColor=white" alt="Major" />
+  <img src="https://img.shields.io/badge/Specialization-Data%20Science%20%26%20Artificial%20Intelligence-6D28D9?style=flat-square&logo=tensorflow&logoColor=white" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Location-Malang,%20Indonesia-4338CA?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4338CA?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/tegar-reski-pratama-47491822a">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:tegarcreat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=flat-square&color=4F46E5&labelColor=111827" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=7C3AED&labelColor=111827" alt="GitHub stars" />
+  </a>
 </div>
 
 <div align="center">
