@@ -80,8 +80,6 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
----
-
 # 💻 Tech Stack
 
 ### 🖥️ Programming Languages
