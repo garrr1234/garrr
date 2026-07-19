@@ -64,11 +64,18 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ### Open To
 
-<p>
-  <img src="https://img.shields.io/badge/Senior%20Software%20Engineering-Open-4C1D95?style=flat-square" alt="Senior Software Engineering" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineering-Open-5B21B6?style=flat-square" alt="AI and ML Engineering" />
-  <img src="https://img.shields.io/badge/Staff%20%2F%20Lead%20Opportunities-Open-6D28D9?style=flat-square" alt="Staff and Lead Opportunities" />
-  <img src="https://img.shields.io/badge/Open%20Source-Collaboration-4338CA?style=flat-square" alt="Open Source Collaboration" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-Available-4C1D95?style=flat-square&logo=databricks&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Available-5B21B6?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Available-6D28D9?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Available-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Available-4338CA?style=flat-square&logo=powerbi&logoColor=white" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Research%20Collaboration-Open-312E81?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Collaboration" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-5B21B6?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Internship-Available-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="Internship" />
 </p>
 
 ---
