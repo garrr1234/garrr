@@ -176,16 +176,20 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-## AI / ML Expertise
+## 🤖 AI & Machine Learning Expertise
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Large Language Models & NLP | Advanced | RAG, semantic search, prompt systems, structured output, tool use, evaluation, guardrails, and latency optimization |
-| Machine Learning | Advanced | Supervised and unsupervised learning, feature engineering, experiment design, model selection, and error analysis |
-| Computer Vision | Proficient | Classification, detection, segmentation, transfer learning, augmentation, and inference optimization |
-| MLOps & Production AI | Advanced | Model serving, versioning, CI/CD, observability, drift monitoring, rollback strategies, and cost control |
-| Data Engineering | Proficient | Batch and streaming pipelines, data modeling, quality checks, orchestration, and analytical workflows |
-| Responsible AI | Proficient | Privacy, explainability, bias assessment, human oversight, threat modeling, and safety evaluation |
+| Area | Technologies & Skills |
+|:-----|:----------------------|
+| **Machine Learning** | Classification, Regression, Clustering, Model Evaluation, Feature Engineering |
+| **Computer Vision** | Image Classification, Transfer Learning, EfficientNetV2, OpenCV, Grad-CAM |
+| **Deep Learning** | TensorFlow, Keras, CNN, Model Optimization |
+| **Natural Language Processing** | TF-IDF, BERT, Text Classification, Information Retrieval |
+| **Data Analytics** | Data Cleaning, EDA, Statistical Analysis, Predictive Modeling |
+| **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
+| **Database** | MySQL, PostgreSQL, SQL |
+| **Programming** | Python, Java, Dart, PHP, JavaScript |
+| **Software Development** | Laravel, Flutter, REST API, Git, GitHub |
+| **Research** | AI Research, Explainable AI, Model Benchmarking, Technical Documentation |
 
 ---
 
