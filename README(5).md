@@ -193,96 +193,151 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-## Featured Projects
+#  Featured Projects
 
 <details open>
-<summary><strong>YOUR_PROJECT_1_NAME</strong> · Enterprise AI Platform</summary>
+<summary><strong>🏋️ Multi-Label Exercise Form Classification</strong> · Computer Vision & Explainable AI</summary>
 
-<br />
+<br>
 
-An end-to-end AI platform that converts private knowledge into grounded, traceable, and access-controlled answers for enterprise teams.
+A deep learning-based Computer Vision system developed to automatically classify exercise movements including **Squat**, **Lunge**, and **Single-Leg Romanian Deadlift** from multi-view images. The research focuses on improving exercise posture recognition accuracy while providing visual explanations through Explainable AI.
 
 | Dimension | Details |
 |:---|:---|
-| Stack | `YOUR_LANGUAGES` · `YOUR_AI_FRAMEWORKS` · `YOUR_DATABASES` · `YOUR_CLOUD` |
-| Scale | `YOUR_USER_COUNT` users · `YOUR_DOCUMENT_COUNT` documents · `YOUR_DAILY_QUERY_VOLUME` daily queries |
-| Performance | `YOUR_P95_LATENCY` p95 latency · `YOUR_AVAILABILITY` availability · `YOUR_COST_REDUCTION` cost reduction |
-| Security | SSO, RBAC, tenant isolation, encrypted data, audit trails, prompt-injection defenses |
-| Impact | Reduced knowledge discovery time by `YOUR_IMPACT_METRIC` and improved answer quality to `YOUR_QUALITY_METRIC` |
-| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_1_REPOSITORY) |
+| Tech Stack | `Python` · `TensorFlow` · `OpenCV` · `EfficientNetV2` · `Grad-CAM` · `Scikit-learn` |
+| Research Area | Computer Vision · Deep Learning · Explainable AI |
+| Dataset | Multi-view Exercise Image Dataset |
+| Model | EfficientNetV2 |
+| Explainability | Grad-CAM Visualization |
+| Objective | Multi-label Exercise Form Classification |
+| Status | 🚧 Undergraduate Thesis |
+| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY) |
 
-The system combines ingestion, chunking, retrieval, reranking, generation, and evidence presentation in one observable workflow. Automated evaluation gates protect quality before release, while feedback telemetry guides model and product improvements.
+This research aims to improve human movement analysis using EfficientNetV2 while integrating Grad-CAM to provide interpretable visual explanations of model predictions. The system is designed to assist athletes, trainers, and fitness enthusiasts in evaluating exercise techniques more accurately.
 
 </details>
 
-<br />
+<br>
 
 <details>
-<summary><strong>YOUR_PROJECT_2_NAME</strong> · Real-Time Risk Intelligence</summary>
+<summary><strong>🏛️ SI NINJA</strong> · Cultural Heritage Information System</summary>
 
-<br />
+<br>
 
-A streaming decision platform that detects high-risk events, explains signals, and routes cases to the right operational workflow.
+SI NINJA is a web-based information system developed during the Praktik Kerja Nyata (PKN) program at Batu City Tourism Office. The platform digitizes cultural heritage information related to **Kris Tosan Aji** and provides efficient archive management for administrators and public users.
 
 | Dimension | Details |
 |:---|:---|
-| Stack | `YOUR_LANGUAGES` · `YOUR_STREAMING_STACK` · `YOUR_ML_STACK` · `YOUR_INFRASTRUCTURE` |
-| Scale | `YOUR_EVENTS_PER_SECOND` events per second · `YOUR_DATA_VOLUME` processed data |
-| Performance | `YOUR_DECISION_LATENCY` decision latency · `YOUR_UPTIME` uptime · `YOUR_FALSE_POSITIVE_REDUCTION` fewer false positives |
-| Security | Zero-trust access, secrets management, encryption, immutable logs, least-privilege services |
-| Impact | Prevented `YOUR_RISK_VALUE` in risk exposure and reduced investigation time by `YOUR_TIME_SAVING` |
-| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_2_REPOSITORY) |
+| Tech Stack | `Laravel` · `PHP` · `Bootstrap` · `MySQL` |
+| Features | Authentication · Digital Archive · Collection Management · Dashboard |
+| Users | Administrator · Cultural Heritage Manager · Public Visitor |
+| Development | Team Project |
+| Platform | Web Application |
+| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY) |
 
-The architecture separates event ingestion, feature computation, model inference, policy rules, and case management. This design supports safe model releases, deterministic fallbacks, rapid incident response, and clear operational ownership.
+The application helps preserve Indonesian cultural heritage by organizing historical information, documentation, and digital collections into an accessible web platform.
 
 </details>
 
-<br />
+<br>
 
 <details>
-<summary><strong>YOUR_PROJECT_3_NAME</strong> · Cloud-Native Product Platform</summary>
+<summary><strong>🌱 EcoSense</strong> · IoT Air Quality Prediction System</summary>
 
-<br />
+<br>
 
-A modular full-stack product platform built for fast iteration, predictable operations, and growth across multiple markets.
+EcoSense is an IoT-based environmental monitoring system that predicts air quality using machine learning algorithms combined with gas and environmental sensors.
 
 | Dimension | Details |
 |:---|:---|
-| Stack | `YOUR_FRONTEND` · `YOUR_BACKEND` · `YOUR_DATABASES` · `YOUR_DEVOPS_STACK` |
-| Scale | `YOUR_MONTHLY_USERS` monthly users · `YOUR_PEAK_RPS` peak requests per second |
-| Performance | `YOUR_CORE_WEB_VITALS` Core Web Vitals · `YOUR_API_P95` API p95 · `YOUR_RELEASE_FREQUENCY` release frequency |
-| Security | OAuth 2.0, RBAC, rate limiting, dependency scanning, CSP, automated backups |
-| Impact | Increased conversion by `YOUR_CONVERSION_LIFT` and shortened lead time by `YOUR_LEAD_TIME_REDUCTION` |
-| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_3_REPOSITORY) |
+| Tech Stack | `ESP32` · `Python` · `MQ-9` · `DHT22` · `Google Sheets API` |
+| Machine Learning | Support Vector Machine (SVM) |
+| Sensors | MQ-9 Gas Sensor · DHT22 Temperature & Humidity |
+| Features | Real-time Monitoring · Prediction · Dashboard |
+| Platform | IoT + Web Dashboard |
+| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY) |
 
-The platform uses clear domain boundaries, contract-first APIs, automated delivery, and service-level objectives. Product analytics connect technical changes to user outcomes, enabling focused iteration without compromising reliability.
+The project combines embedded systems and machine learning to monitor environmental conditions while providing predictive insights through cloud-based data visualization.
 
 </details>
 
-<br />
+<br>
 
 <details>
-<summary><strong>YOUR_PROJECT_4_NAME</strong> · Developer Productivity System</summary>
+<summary><strong>⚖️ Legal Case-Based Reasoning System</strong> · AI Information Retrieval</summary>
 
-<br />
+<br>
 
-An internal engineering platform that standardizes delivery workflows and gives teams self-service access to secure infrastructure.
+A Case-Based Reasoning (CBR) system developed to retrieve and recommend Indonesian mining-related legal decisions using semantic similarity and transformer-based text representations.
 
 | Dimension | Details |
 |:---|:---|
-| Stack | `YOUR_PLATFORM_STACK` · `YOUR_IAC_STACK` · `YOUR_OBSERVABILITY_STACK` |
-| Scale | `YOUR_ENGINEER_COUNT` engineers · `YOUR_SERVICE_COUNT` services · `YOUR_DEPLOYMENT_COUNT` monthly deployments |
-| Performance | `YOUR_PIPELINE_TIME` pipeline time · `YOUR_RECOVERY_TIME` recovery time · `YOUR_PLATFORM_UPTIME` platform uptime |
-| Security | Policy as code, signed artifacts, SBOM, vulnerability gates, short-lived credentials |
-| Impact | Reduced onboarding time by `YOUR_ONBOARDING_REDUCTION` and deployment failures by `YOUR_FAILURE_REDUCTION` |
-| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_4_REPOSITORY) |
+| Tech Stack | `Python` · `BERT` · `TF-IDF` · `Scikit-learn` |
+| Dataset | Indonesian Supreme Court Decisions |
+| AI Methods | Information Retrieval · Semantic Similarity |
+| Features | Case Recommendation · Document Retrieval |
+| Domain | Legal AI |
+| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY) |
 
-Reusable templates, paved-road deployment patterns, and integrated observability reduce cognitive load for product teams. Governance is automated through platform defaults so engineers can move quickly while meeting security and compliance requirements.
+The system applies TF-IDF and BERT embeddings to retrieve similar legal cases efficiently, supporting legal research and decision analysis.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>📊 Machine Learning Projects Collection</strong> · Data Science Portfolio</summary>
+
+<br>
+
+A collection of machine learning projects covering supervised learning, unsupervised learning, predictive analytics, and data visualization developed during academic coursework and professional training.
+
+| Category | Technologies |
+|:---|:---|
+| Programming | `Python` · `SQL` |
+| Libraries | `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn` |
+| Visualization | `Power BI` · `Tableau` |
+| Topics | Classification · Regression · Clustering · Prediction |
+
+### Included Projects
+
+- Titanic Survival Prediction
+- Vehicle Price Prediction
+- Customer Segmentation (K-Means)
+- COVID-19 Clustering Analysis
+- Sentiment Analysis using BERT
+- Spam Text Classification
+- Sales Prediction
+- Housing Price Prediction
+- Data Visualization Dashboard
+- IBM Granite AI Projects
+
+Repository: **Multiple repositories available on GitHub**
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>📱 Flutter Product Catalog App</strong> · Mobile Development</summary>
+
+<br>
+
+A Flutter-based mobile application developed to demonstrate modern mobile application architecture and user interface implementation.
+
+| Dimension | Details |
+|:---|:---|
+| Tech Stack | `Flutter` · `Dart` · `Firebase` |
+| Platform | Android |
+| Features | Product Catalog · Detail View · Responsive UI |
+| Development | Individual Project |
+| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY) |
+
+The application demonstrates Flutter fundamentals, state management, and responsive mobile user interface development.
 
 </details>
 
 ---
-
 ## Experience
 
 ### Senior Software Engineer · YOUR_CURRENT_COMPANY
