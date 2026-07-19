@@ -80,30 +80,84 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-## Tech Stack
+---
 
-### Languages
+# 💻 Tech Stack
+
+### 🖥️ Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,go,rust,kotlin&amp;theme=dark&amp;perline=8" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,dart,php,js,html,css,mysql&theme=dark&perline=8" />
 </p>
 
-### Frontend
+---
+
+### 🤖 Data Science & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,figma,vite&amp;theme=dark&amp;perline=8" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark&perline=8" />
 </p>
 
-### Backend & Databases
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,spring,postgres,mysql,mongodb,redis,kafka,graphql,supabase&amp;theme=dark&amp;perline=8" alt="Backend and database technologies" />
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
 </p>
 
-### Cloud, DevOps & Tooling
+---
+
+### 📱 Mobile Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,linux,git,nginx,prometheus,grafana&amp;theme=dark&amp;perline=8" alt="Cloud DevOps and tooling" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark&perline=8" />
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,javascript&theme=dark&perline=8" />
+</p>
+
+---
+
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,mongodb&theme=dark&perline=8" />
+</p>
+
+---
+
+### 📊 Data Visualization
+
+<p align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</p>
+
+---
+
+### ⚙️ Tools & IDE
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,pycharm,idea,linux,postman&theme=dark&perline=8" />
+</p>
+
+---
+
+### ☁️ Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp&theme=dark&perline=8" />
 </p>
 
 ---
