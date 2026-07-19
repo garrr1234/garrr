@@ -134,13 +134,30 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-### 📊 Data Visualization
+---
+
+## 📊 Data Analytics & Visualization
 
 <p align="center">
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+<div align="center">
+
+**Building dashboards • Data storytelling • Business Intelligence • Statistical Visualization**
+
+</div>
+
 
 </p>
 
