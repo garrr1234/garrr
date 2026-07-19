@@ -163,9 +163,7 @@ My AI and machine learning work covers data pipelines, model development, retrie
 </div>
 
 </p>
-
 ---
-
 ### ⚙️ Tools & IDE
 
 <p align="center">
