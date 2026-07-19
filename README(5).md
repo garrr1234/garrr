@@ -136,25 +136,29 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-## 📊 Data Analytics & Visualization
+---
+
+## 📊 Data Visualization & Business Intelligence
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<a href="https://powerbi.microsoft.com/">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</a>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<a href="https://www.tableau.com/">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</a>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<a href="https://www.microsoft.com/microsoft-365/excel">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+</a>
 
 </p>
 
 <div align="center">
 
-**Building dashboards • Data storytelling • Business Intelligence • Statistical Visualization**
+> **Creating interactive dashboards, transforming raw data into actionable insights, and delivering business intelligence solutions.**
 
 </div>
 
