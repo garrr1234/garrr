@@ -338,7 +338,6 @@ The application demonstrates Flutter fundamentals, state management, and respons
 </details>
 
 ---
----
 
 # 💼 Experience
 
@@ -479,114 +478,216 @@ Served as a member of the Public Relations and Publication Documentation Divisio
 
 ---
 
-## Certifications
-
-### AWS
-
-<a href="YOUR_AWS_CREDENTIAL_URL"><img src="https://img.shields.io/badge/AWS-YOUR%20AWS%20CERTIFICATION-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS certification" /></a>
-
-### Oracle
-
-<a href="YOUR_ORACLE_CREDENTIAL_URL"><img src="https://img.shields.io/badge/Oracle-YOUR%20ORACLE%20CERTIFICATION-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle certification" /></a>
-
-### NPTEL
-
-<a href="YOUR_NPTEL_CREDENTIAL_URL"><img src="https://img.shields.io/badge/NPTEL-YOUR%20NPTEL%20CERTIFICATION-5B21B6?style=for-the-badge&amp;logoColor=white" alt="NPTEL certification" /></a>
-
-### Cisco
-
-<a href="YOUR_CISCO_CREDENTIAL_URL"><img src="https://img.shields.io/badge/Cisco-YOUR%20CISCO%20CERTIFICATION-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco certification" /></a>
-
 ---
 
-## Coding Profiles
+# 📜 Certifications
 
 <div align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-YOUR_LEETCODE_USERNAME-0D1117?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-YOUR_GFG_USERNAME-0D1117?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=2F8D46" alt="GeeksforGeeks" /></a>
-  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-YOUR_HACKERRANK_USERNAME-0D1117?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=00EA64" alt="HackerRank" /></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/CodeChef-YOUR_CODECHEF_USERNAME-0D1117?style=for-the-badge&amp;logo=codechef&amp;logoColor=9B7B63" alt="CodeChef" /></a>
+
+### 🏅 Professional Certifications
+
+<a href="YOUR_BNSP_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/BNSP-Associate%20Data%20Scientist-005BAC?style=for-the-badge&logo=databricks&logoColor=white"/>
+</a>
+
+<a href="YOUR_IBM_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/IBM-SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+<a href="YOUR_DICODING_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/Dicoding-Certificate-2D3E50?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+</a>
+
+<a href="YOUR_GOOGLE_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/Google-Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## GitHub Analytics
+### ☁️ Cloud Certifications
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=C9D1D9&amp;ring_color=7C3AED" alt="GitHub statistics" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakNum=FFFFFF&amp;sideNums=C4B5FD&amp;currStreakLabel=C4B5FD&amp;sideLabels=94A3B8&amp;dates=64748B&amp;stroke=312E81" alt="GitHub streak" />
-</div>
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;size_weight=0.5&amp;count_weight=0.5" alt="Most used languages" />
-</div>
+<a href="YOUR_AWS_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+</a>
 
----
+<a href="YOUR_GCP_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
 
-## GitHub Trophies
+<a href="YOUR_AZURE_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;row=1&amp;column=7" alt="GitHub trophies" />
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=8B5CF6&amp;point=FFFFFF&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 </div>
 
 ---
 
-## Contribution Snake
+### 💾 Database & Programming
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+<a href="YOUR_ORACLE_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+<a href="YOUR_CISCO_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
+<a href="YOUR_NPTEL_CREDENTIAL_URL">
+<img src="https://img.shields.io/badge/NPTEL-Certificate-5B21B6?style=for-the-badge"/>
+</a>
+
 </div>
 
 ---
 
-## Current Focus
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
 learning:
-  - "Advanced distributed systems and platform architecture"
-  - "LLM evaluation, retrieval systems, and agentic workflows"
+  - Computer Vision
+  - Deep Learning
+  - Explainable AI (XAI)
+  - Natural Language Processing
+  - MLOps Fundamentals
 
 building:
-  - "Production AI systems with measurable quality and reliability"
-  - "Cloud-native products with strong developer experience"
+  - Exercise Form Classification using EfficientNetV2
+  - SI NINJA Cultural Heritage Information System
+  - AI-powered Data Science Portfolio
+  - Computer Vision Research Projects
 
 exploring:
-  - "Efficient inference, multimodal AI, and privacy-preserving ML"
-  - "Open-source infrastructure for modern engineering teams"
+  - Vision Transformers (ViT)
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - Edge AI & Embedded Machine Learning
 
 open_to:
-  - "Senior, Staff, or Lead Software Engineering roles"
-  - "AI and Machine Learning Engineering opportunities"
-  - "Open-source collaboration and technical advisory work"
+  - Data Scientist Internship
+  - Machine Learning Engineer Internship
+  - AI Research Collaboration
+  - Computer Vision Projects
+  - Open Source Contributions
 ```
 
 ---
 
-## Connect
+# 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-YOUR_EMAIL-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_USERNAME-4F46E5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-YOUR_DOMAIN-6D28D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+
+<a href="mailto:tegarcreat@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-tegarcreat%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tegar-reski-pratama-47491822a">
+<img src="https://img.shields.io/badge/LinkedIn-Tegar%20Reski%20Pratama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Engineering is the discipline of turning complex problems into dependable products.</sub>
-</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,35:6D28D9,70:312E81,100:020617&amp;height=130&amp;section=footer" alt="Profile footer" />
+### ⭐ *"Transforming Data into Intelligent Solutions through Artificial Intelligence, Machine Learning, and Computer Vision."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:6D28D9,70:312E81,100:020617&height=130&section=footer"/>
+
+</div>
