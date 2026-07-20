@@ -16,7 +16,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/TegarReskiPratama">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https:/https://github.com/TegarReskiPratama>
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -80,9 +80,9 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-### 🖥️ Programming Languages
+###  Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,dart,php,js,html,css,mysql&theme=dark&perline=8" />
@@ -90,7 +90,7 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-### 🤖 Data Science & Machine Learning
+###  Data Science & Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark&perline=8" />
@@ -108,7 +108,7 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-### 📱 Mobile Development
+###  Mobile Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark&perline=8" />
@@ -116,7 +116,7 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-### 🌐 Web Development
+###  Web Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,javascript&theme=dark&perline=8" />
@@ -124,7 +124,7 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-### 🗄️ Database
+###  Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,mongodb&theme=dark&perline=8" />
@@ -132,7 +132,7 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-## 📊 Data Analytics & Visualization
+##  Data Analytics & Visualization
 
 <p align="center">
 
@@ -158,7 +158,7 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-### ⚙️ Tools & IDE
+###  Tools & IDE
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,pycharm,idea,linux,postman&theme=dark&perline=8" />
@@ -166,7 +166,7 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-### ☁️ Currently Learning
+###  Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp&theme=dark&perline=8" />
@@ -174,7 +174,7 @@ My AI and machine learning work covers data pipelines, model development, retrie
 
 ---
 
-## 🤖 AI & Machine Learning Expertise
+##  AI & Machine Learning Expertise
 
 | Area | Technologies & Skills |
 |:-----|:----------------------|
@@ -218,7 +218,7 @@ This research aims to improve human movement analysis using EfficientNetV2 while
 <br>
 
 <details>
-<summary><strong>🏛️ SI NINJA</strong> · Cultural Heritage Information System</summary>
+<summary><strong> SI NINJA</strong> · Cultural Heritage Information System</summary>
 
 <br>
 
@@ -317,7 +317,7 @@ Repository: **Multiple repositories available on GitHub**
 <br>
 
 <details>
-<summary><strong>📱 Flutter Product Catalog App</strong> · Mobile Development</summary>
+<summary><strong> Flutter Product Catalog App</strong> · Mobile Development</summary>
 
 <br>
 
@@ -366,7 +366,7 @@ Currently developing **SI NINJA (Sistem Informasi Kris Nusantara)**, a web-based
 
 ---
 
-### 📊 Associate Data Scientist (BNSP Certified)
+###  Associate Data Scientist (BNSP Certified)
 
 `2025` · Indonesia
 
@@ -395,7 +395,7 @@ Completed the **Associate Data Scientist Professional Certification** accredited
 
 ---
 
-### 👨‍💻 Freelance Machine Learning & Data Science Projects
+###  Freelance Machine Learning & Data Science Projects
 
 `2024 – Present` · Remote
 
@@ -478,11 +478,11 @@ Served as a member of the Public Relations and Publication Documentation Divisio
 
 ---
 
-# 📜 Certifications
+#  Certifications
 
 <div align="center">
 
-### 🏅 Professional Certifications
+###  Professional Certifications
 
 <a href="YOUR_BNSP_CREDENTIAL_URL">
 <img src="https://img.shields.io/badge/BNSP-Associate%20Data%20Scientist-005BAC?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -504,7 +504,7 @@ Served as a member of the Public Relations and Publication Documentation Divisio
 
 ---
 
-### ☁️ Cloud Certifications
+###  Cloud Certifications
 
 <div align="center">
 
@@ -524,7 +524,7 @@ Served as a member of the Public Relations and Publication Documentation Divisio
 
 ---
 
-### 💾 Database & Programming
+###  Database & Programming
 
 <div align="center">
 
@@ -544,7 +544,7 @@ Served as a member of the Public Relations and Publication Documentation Divisio
 
 ---
 
-# 💻 Coding Profiles
+#  Coding Profiles
 
 <div align="center">
 
@@ -568,7 +568,7 @@ Served as a member of the Public Relations and Publication Documentation Divisio
 
 ---
 
-# 📈 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -586,7 +586,7 @@ Served as a member of the Public Relations and Publication Documentation Divisio
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <div align="center">
 
@@ -596,7 +596,7 @@ Served as a member of the Public Relations and Publication Documentation Divisio
 
 ---
 
-# 📊 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
@@ -606,7 +606,7 @@ Served as a member of the Public Relations and Publication Documentation Divisio
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <div align="center">
 
@@ -626,7 +626,7 @@ srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERN
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 ```yaml
 learning:
@@ -658,7 +658,7 @@ open_to:
 
 ---
 
-# 🤝 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -670,7 +670,7 @@ open_to:
 <img src="https://img.shields.io/badge/LinkedIn-Tegar%20Reski%20Pratama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/TegarReskiPratama">
 <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
